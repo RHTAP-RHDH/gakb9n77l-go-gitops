@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gakb9n77l-go-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/gakb9n77l-go-gitops
